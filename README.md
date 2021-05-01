@@ -1,2 +1,2 @@
 Speed test 
- Python tkinder project
+ Python tkinter project
